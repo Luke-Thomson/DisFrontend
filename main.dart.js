@@ -8309,7 +8309,7 @@ aza:function aza(){},
 azc:function azc(){},
 aAk:function aAk(){},
 aAw:function aAw(){},
-aPu(a){var s=A.aPB("http://127.0.0.1:8000/",B.nD,A.at(["Content-Type","application/json"],t.N,t.z),B.nD),r=new A.NL(A.b([B.C8],t.i6))
+aPu(a){var s=A.aPB("https://lukeslist.mystuff.dpdns.org/",B.nD,A.at(["Content-Type","application/json"],t.N,t.z),B.nD),r=new A.NL(A.b([B.C8],t.i6))
 r.P(r,B.IL)
 r=new A.a4K($,r,$,new A.a84(51200),!1)
 r.Yr$=s
